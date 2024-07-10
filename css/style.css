@@ -158,13 +158,13 @@ header > .container {
 
 .about .btn {
   width: 150px;
-  color: #c69963 !important;
+  color:  #589641 !important;
   transition: background-color 650ms;
 }
 
 .about .btn:hover {
   color: #fff !important;
-  background-color: #c69963;
+  background-color:  #589641;
 }
 
 .about .img-fluid {
